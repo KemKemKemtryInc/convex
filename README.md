@@ -1,2 +1,2 @@
 # convex
-Blender add-0n : convex
+Blender add-on : convex
